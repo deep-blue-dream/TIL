@@ -84,9 +84,11 @@ tsv형식으로 저장된 텍스트를 통해 todo리스트 만들기 시작.
 
 - Maven 프로젝트로 새 작성 이후 폴더 경로를 동일하게 작성.
     
-    ![시작.JPG](TIL_3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1%2050bef2a5b2ec4c3e9e308939519214b1/%EC%8B%9C%EC%9E%91.jpg)
+    ![시작.JPG]![시작](https://user-images.githubusercontent.com/102152693/165566017-a9bd373c-01f5-43eb-9ba5-4ba7c7397049.JPG)
+
     
-    ![폴더 경로 동일하게 세팅.JPG](TIL_3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1%2050bef2a5b2ec4c3e9e308939519214b1/%ED%8F%B4%EB%8D%94_%EA%B2%BD%EB%A1%9C_%EB%8F%99%EC%9D%BC%ED%95%98%EA%B2%8C_%EC%84%B8%ED%8C%85.jpg)
+    ![폴더 경로 동일하게 세팅.JPG]![시작 세팅](https://user-images.githubusercontent.com/102152693/165566072-d7e8f6cc-4b15-42f8-9794-c5cddb9143c9.JPG)
+
     
 
 자 이제 시작해보자...
@@ -119,8 +121,7 @@ tsv형식으로 저장된 텍스트를 통해 todo리스트 만들기 시작.
     }
     ```
     
-
-![필드값 생성.jpg](TIL_3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1%2050bef2a5b2ec4c3e9e308939519214b1/%ED%95%84%EB%93%9C%EA%B0%92_%EC%83%9D%EC%84%B1.jpg)
+![필드값 생성](https://user-images.githubusercontent.com/102152693/165566114-4977c38e-e447-4c0f-ba6b-173a35292c16.jpg)
 
 ---
 
@@ -270,7 +271,7 @@ tsv형식으로 저장된 텍스트를 통해 todo리스트 만들기 시작.
 
 솔직히 이 부분이 제일 어려웠다. 의도는 알겠는데, 막상 비슷하게 코드를 짜보라고 하면 엄두가 안 날 듯... 게다가 txt파일을 읽어오는데 있어서 경로 이슈가 발생하여 한참을 끙끙 앓았다. 
 
-![경로 오류.JPG](TIL_3%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8E%E1%85%A1%2050bef2a5b2ec4c3e9e308939519214b1/%EA%B2%BD%EB%A1%9C_%EC%98%A4%EB%A5%98.jpg)
+![경로 오류](https://user-images.githubusercontent.com/102152693/165566197-16c27c4b-4631-4ce8-b0ab-87bfc107ad1a.JPG)
 
 하단 경고창을 보면 src\main\resourcestodo-data-simple.txt라고 적혀있으나 한 번 해결한 이후로 
 
